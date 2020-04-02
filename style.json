@@ -8,7 +8,7 @@
       "type": "raster"
     }
   },
-  "glyphs": "https://font.hamatim.com/fonts/{fontstack}/{range}.pbf?key=G3QHXIsXg1VC6a6mhhiW",
+  "glyphs": "https://github.com/bc67da8d/remote-config/raw/master/0-255.pbf",
   "layers": [
     {
       "id": "free-tile",
