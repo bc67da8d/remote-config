@@ -3,7 +3,7 @@
   "sources": {
     "free-tile": {
       "tiles": [
-        "https://tile.hamatim.com/{z}/{x}/{y}.png"
+        "https://a.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png"
       ],
       "type": "raster"
     }
