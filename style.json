@@ -3,12 +3,12 @@
   "sources": {
     "free-tile": {
       "tiles": [
-        "https://a.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png"
+        "https://tile.hamatim.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png"
       ],
       "type": "raster"
     }
   },
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=G3QHXIsXg1VC6a6mhhiW",
+  "glyphs": "https://font.hamatim.com/fonts/{fontstack}/{range}.pbf?key=G3QHXIsXg1VC6a6mhhiW",
   "layers": [
     {
       "id": "free-tile",
