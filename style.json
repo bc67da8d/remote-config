@@ -8,6 +8,7 @@
      ]
     }
   },
+  "sprite": "https://cdn.arcgis.com/sharing/rest/content/items/dfb04de5f3144a80bc3f9f336228d24a/resources/styles/../sprites/sprite",
   "glyphs": "https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
