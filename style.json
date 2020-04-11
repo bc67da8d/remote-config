@@ -6,7 +6,7 @@
       "tiles": [
         "https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
       ],
-      "maxzoom": 14
+      "maxzoom": 16
     }
   },
   "glyphs": "https://github.com/bc67da8d/remote-config/raw/master/0-255.pbf",
