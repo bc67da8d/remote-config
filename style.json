@@ -4,9 +4,9 @@
     "esri": {
       "type": "vector",
       "tiles": [
-        "https://tiles.hamatim.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
+        "https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf"
       ],
-      "maxzoom": 16
+      "maxzoom": 14
     }
   },
   "glyphs": "https://github.com/bc67da8d/remote-config/raw/master/0-255.pbf",
