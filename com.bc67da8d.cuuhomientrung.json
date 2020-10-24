@@ -2,5 +2,10 @@
   {
     "version": 8,
     "url": "https://staging.cuuhomientrung.info/api/app/"
+  },
+  {
+    "version": 9,
+    "url": "https://cuuhomientrung.info/api/app/"
   }
+
 ]
